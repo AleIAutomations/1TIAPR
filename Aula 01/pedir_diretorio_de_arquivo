@@ -1,0 +1,5 @@
+print ('olá mundo')
+
+# digite (cd e o nome dá pasta. exemplo: cd aula 01)
+# digite (py + nome do arquivo com final .py normal)
+# para sair digite (cd ..)
